@@ -1,0 +1,8 @@
+E:\Maikel\Projects\Lesson18\ScrapeLibrary\bin\Debug\netstandard2.0\ScrapeLibrary.deps.json
+E:\Maikel\Projects\Lesson18\ScrapeLibrary\bin\Debug\netstandard2.0\ScrapeLibrary.dll
+E:\Maikel\Projects\Lesson18\ScrapeLibrary\bin\Debug\netstandard2.0\ScrapeLibrary.pdb
+E:\Maikel\Projects\Lesson18\ScrapeLibrary\obj\Debug\netstandard2.0\ScrapeLibrary.csproj.CoreCompileInputs.cache
+E:\Maikel\Projects\Lesson18\ScrapeLibrary\obj\Debug\netstandard2.0\ScrapeLibrary.AssemblyInfoInputs.cache
+E:\Maikel\Projects\Lesson18\ScrapeLibrary\obj\Debug\netstandard2.0\ScrapeLibrary.AssemblyInfo.cs
+E:\Maikel\Projects\Lesson18\ScrapeLibrary\obj\Debug\netstandard2.0\ScrapeLibrary.dll
+E:\Maikel\Projects\Lesson18\ScrapeLibrary\obj\Debug\netstandard2.0\ScrapeLibrary.pdb

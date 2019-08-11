@@ -1,0 +1,10 @@
+E:\Maikel\Projects\Lesson18\ScrapeClient\obj\Debug\ScrapeClient.csprojAssemblyReference.cache
+E:\Maikel\Projects\Lesson18\ScrapeClient\obj\Debug\ScrapeClient.csproj.CoreCompileInputs.cache
+E:\Maikel\Projects\Lesson18\ScrapeClient\bin\Debug\ScrapeClient.exe.config
+E:\Maikel\Projects\Lesson18\ScrapeClient\bin\Debug\ScrapeClient.exe
+E:\Maikel\Projects\Lesson18\ScrapeClient\bin\Debug\ScrapeClient.pdb
+E:\Maikel\Projects\Lesson18\ScrapeClient\bin\Debug\ScrapeLibrary.dll
+E:\Maikel\Projects\Lesson18\ScrapeClient\bin\Debug\ScrapeLibrary.pdb
+E:\Maikel\Projects\Lesson18\ScrapeClient\obj\Debug\ScrapeClient.csproj.CopyComplete
+E:\Maikel\Projects\Lesson18\ScrapeClient\obj\Debug\ScrapeClient.exe
+E:\Maikel\Projects\Lesson18\ScrapeClient\obj\Debug\ScrapeClient.pdb
